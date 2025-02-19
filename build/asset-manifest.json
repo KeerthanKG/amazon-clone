@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a488f115.css",
+    "main.js": "/static/js/main.c865132a.js",
+    "static/js/488.bc677cc5.chunk.js": "/static/js/488.bc677cc5.chunk.js",
+    "static/media/Apple_Watch.png": "/static/media/Apple_Watch.26ab4914986d24950e08.png",
+    "static/media/Garmin_Watch.png": "/static/media/Garmin_Watch.3b37661f4b7ccc44ebee.png",
+    "static/media/iPhone_16_Pro_Max.png": "/static/media/iPhone_16_Pro_Max.7536881df6957b13b2b5.png",
+    "static/media/Amazon_Banner.png": "/static/media/Amazon_Banner.5747cfa0520997a423c1.png",
+    "static/media/Switch.png": "/static/media/Switch.b20655062fff536cc1cc.png",
+    "static/media/Xbox .png": "/static/media/Xbox .668a1173931af440dae2.png",
+    "static/media/Product_PS5.png": "/static/media/Product_PS5.f284f22608dfc34f24e3.png",
+    "static/media/PS5_Digital.png": "/static/media/PS5_Digital.2e5ea465ec66c6552b5e.png",
+    "static/media/Samsung_Watch.png": "/static/media/Samsung_Watch.f45dc0ee769bdfd845e1.png",
+    "static/media/Amazon_Banner_1.png": "/static/media/Amazon_Banner_1.8eacfab1b852396dd7f5.png",
+    "static/media/Amazon-Logo-White-PNG-Image.png": "/static/media/Amazon-Logo-White-PNG-Image.caf7b722c3ddb07b7db6.png",
+    "static/media/Samsung-Galaxy-S24.png": "/static/media/Samsung-Galaxy-S24.45e3eefd8809e4ca9ca0.png",
+    "static/media/Amazon_Logo_Black.png": "/static/media/Amazon_Logo_Black.543ded960a226508ac1f.png",
+    "index.html": "/index.html",
+    "main.a488f115.css.map": "/static/css/main.a488f115.css.map",
+    "main.c865132a.js.map": "/static/js/main.c865132a.js.map",
+    "488.bc677cc5.chunk.js.map": "/static/js/488.bc677cc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a488f115.css",
+    "static/js/main.c865132a.js"
+  ]
+}
