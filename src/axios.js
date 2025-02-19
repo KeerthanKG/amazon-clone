@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-    baseURL: "http://127.0.0.1:5001/clone-e8dd6/us-central1/api"// The API URL
+    baseURL: ""// Insert the API URL here, retrieved by running firebase emulators:start
 });
 
 export default instance
