@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### To run BACKEND and have payment and order retrieval functionality:
+
+Create a Stripe account and insert secret key into a .env file in the functions folder (STRIPE_SECRET_KEY=)
+
+Create a Firebase account and a Firebase project. Run (firebase login) and then (firebase init) in console, select hosting and previously created project, when asked: What do you want to use as your public directory?, type in (build) and answer (y) to the next question: Configure as a single-page app (rewrite all urls to /index.html)?. 
+
+Then by running (firebase emulators:start), retrieve the API URL and insert it into axios.js
+
+Finally while (firebase emulators:start) is still running, in a seperate terminal run npm start
